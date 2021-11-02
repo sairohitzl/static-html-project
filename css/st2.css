@@ -1,0 +1,129 @@
+.image{
+    /* border-radius: 25%; */
+    position: relative;
+    width: 300px;
+    height: 200px;
+    left:20px;
+    top: 100px;
+    float: left;
+    margin: 20px 30px;
+    border: 3px solid rgb(41, 11, 11);
+}
+
+.phone-box{
+    position: absolute;
+    top:150px;
+    left:470px;
+    width: 500px;
+    height: 100px;
+    background-color: rgb(170, 178, 206);
+    border-radius: 2px;
+    border: 5px;
+    
+}
+.phone-icon-box{
+    position: absolute;
+    top: 150px;
+    left: 370px;
+    width: 100px;
+    height: 100px;
+    border: 2px;
+    border-radius: 10px;
+    background-color: rgb(54, 76, 155);
+    border-color: rgb(83, 4, 4);
+    
+}
+.phone-icon{
+    position: relative;
+    top: 27px;
+    left: 30px;
+    width: 40px;
+    height: 40px;
+    
+}
+.phone-no{
+    position: relative;
+    top: 20px;
+    left: 100px;
+    
+}
+
+.mail-box{
+    position: absolute;
+    top:270px;
+    left:470px;
+    width: 500px;
+    height: 100px;
+    background-color: rgb(170, 178, 206);
+    border: 5px;
+    border-radius: 2px;
+    
+}
+
+.mail-icon-box{
+    position: absolute;
+    top: 270px;
+    left: 370px;
+    width: 100px;
+    height: 100px;
+    border: 2px;
+    border-radius: 10px;
+    background-color: rgb(54, 76, 155);
+    border-color: rgb(83, 4, 4);
+    
+}
+.mail-icon{
+    position: relative;
+    top: 27px;
+    left: 30px;
+    width: 40px;
+    height: 40px;
+    
+}
+
+.mail-id{
+    position: relative;
+    top: 20px;
+    left: 100px;
+    
+}
+.name-box{
+    position: absolute;
+    top:390px;
+    left:370px;
+    width: 600px;
+    height: 80px;
+    background-color: rgb(170, 178, 206);
+    border: 5px;
+    border-radius: 20px;
+    font-size: 35px;
+    text-align: center;
+    color: black;
+}
+.message-box{
+    position: absolute;
+    top:495px;
+    left:370px;
+    width: 600px;
+    height: 200px;
+    background-color: rgb(170, 178, 206);
+    border: 5px;
+    border-radius: 20px;
+    font-size: 35px;
+    text-align: center;
+    color: black;
+}
+.send-button{
+    position: absolute;
+    top:720px;
+    left:625px;
+    width: 100px;
+    height: 60px;
+    background-color: rgb(170, 178, 206);
+    border: 2px;
+    border-radius: 15px;
+    font-size: 20px;
+    text-align: center;
+    color: black;
+}
+
